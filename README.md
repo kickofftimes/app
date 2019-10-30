@@ -2,7 +2,7 @@
 
 A simple web application to create, manage and publish a shareable sports calendar using the Gatsby template.
 
-## Brainstorm
+## Brainstorm
 
 - Placeholder values (TBC)
 - Capture start date/time, teams/players, where
