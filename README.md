@@ -11,3 +11,7 @@ A simple web application to create, manage and publish a shareable sports calend
 - Auto-suggest location based on home/away toggle
 - Default reminder
 - Generate JSON, iCal etc
+
+## Designs
+
+- [Whimsical prototype](https://whimsical.com/YEhrtcDc4hoEkCmweVZZDV)
